@@ -1,4 +1,8 @@
-### Hi there 👋
+🌱 `.py` `.sh` `.md` `.tex`
+
+🖼 `.xcf` `.svg` `.blend`
+
+🏠 `vim` `GNU/Linux`
 
 <!--
 **c-torre/c-torre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
