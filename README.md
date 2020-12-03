@@ -1,4 +1,4 @@
-🌱 `.py` `.sh` `.md` `.tex`
+🌱 `.py` `.sh` `.tex` `.md`
 
 🖼 `.xcf` `.svg` `.blend`
 
