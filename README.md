@@ -1,3 +1,22 @@
+         -/oyddmdhs+:.                OS:      Gentoo/GNU-Linux
+     -odNMMMMMMMMNNmhy+-`             
+   -yNMMMMMMMMMMMNNNmmdhy+-           Editor:  nvim
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`        
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`      Shell:   zsh
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   WM: dwm
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   Terminal: st
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:   
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`        
++MMMMMMMNNNNNmmmmdmNMNdso/-           
+yMMNNNNNNNmmmmmNNMmhs+/-`             
+/hMMNNNNNNNNMNdhs++/-`                
+`/ohdmmddhys+++/:.`
+  `-//////:--.
+   
 🌱 `.py` `.sh` `.tex` `.md`
 
 🖼 `.xcf` `.svg` `.blend`
