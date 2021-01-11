@@ -1,20 +1,20 @@
 ```
-         -/oyddmdhs+:.                OS:      Gentoo/GNU-Linux
-     -odNMMMMMMMMNNmhy+-`             
-   -yNMMMMMMMMMMMNNNmmdhy+-           Editor:  nvim
- `omMMMMMMMMMMMMNmdmmmmddhhy/`        
- omMMMMMMMMMMMNhhyyyohmdddhhhdo`      Shell:   zsh
-.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    
- oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   WM: dwm
-  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   Terminal: st
-       /mMMMMMMNNNmmmdddhhhhhmMNhs:   
-    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    Script: .py .sh .tex .md
-  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      
- /NMMMMMMMMNNNNmmmdddmNMNdso:`        Media: .xcf .svg .blend
-+MMMMMMMNNNNNmmmmdmNMNdso/-           
+         -/oyddmdhs+:.                welcome@profile
+     -odNMMMMMMMMNNmhy+-`             ---------------
+   -yNMMMMMMMMMMMNNNmmdhy+-           
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`        OS:       Gentoo/GNU-Linux
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`      
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Editor:   nvim
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   Shell:    zsh
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:   WM:       dwm
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      Terminal: st
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`        
++MMMMMMMNNNNNmmmmdmNMNdso/-           Script:   .py .sh .tex .md
 yMMNNNNNNNmmmmmNNMmhs+/-`             
-/hMMNNNNNNNNMNdhs++/-`                
+/hMMNNNNNNNNMNdhs++/-`                Media:    .xcf .svg .blend
 `/ohdmmddhys+++/:.`
   `-//////:--.
 ```
