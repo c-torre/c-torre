@@ -2,19 +2,19 @@
          -/oyddmdhs+:.                welcome@profile
      -odNMMMMMMMMNNmhy+-`             ---------------
    -yNMMMMMMMMMMMNNNmmdhy+-           
- `omMMMMMMMMMMMMNmdmmmmddhhy/`        OS:       Gentoo/GNU-Linux
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`        OS:        Gentoo/GNU-Linux
  omMMMMMMMMMMMNhhyyyohmdddhhhdo`      
-.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Editor:   nvim
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Editor:    nvim
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   
-  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   Shell:    zsh
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   Shell:     zsh
     .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   
-       /mMMMMMMNNNmmmdddhhhhhmMNhs:   WM:       dwm
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:   WM:        dwm
     `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
-  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      Terminal: st
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      Terminal:  st
  /NMMMMMMMMNNNNmmmdddmNMNdso:`        
-+MMMMMMMNNNNNmmmmdmNMNdso/-           Script:   .py .sh .tex .md
++MMMMMMMNNNNNmmmmdmNMNdso/-           Script:    .py .sh .tex .md
 yMMNNNNNNNmmmmmNNMmhs+/-`             
-/hMMNNNNNNNNMNdhs++/-`                Media:    .xcf .svg .blend
+/hMMNNNNNNNNMNdhs++/-`                Media:     .xcf .svg .blend
 `/ohdmmddhys+++/:.`
   `-//////:--.
 ```
