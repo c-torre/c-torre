@@ -1,3 +1,4 @@
+```
          -/oyddmdhs+:.                OS:      Gentoo/GNU-Linux
      -odNMMMMMMMMNNmhy+-`             
    -yNMMMMMMMMMMMNNNmmdhy+-           Editor:  nvim
@@ -16,7 +17,7 @@ yMMNNNNNNNmmmmmNNMmhs+/-`
 /hMMNNNNNNNNMNdhs++/-`                
 `/ohdmmddhys+++/:.`
   `-//////:--.
-   
+```
 🌱 `.py` `.sh` `.tex` `.md`
 
 🖼 `.xcf` `.svg` `.blend`
