@@ -9,20 +9,15 @@
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   
     .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   Terminal: st
        /mMMMMMMNNNmmmdddhhhhhmMNhs:   
-    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    Script: .py .sh .tex .md
   `sNMMMMMMMMNNNmmmdddddmNMmhs/.      
- /NMMMMMMMMNNNNmmmdddmNMNdso:`        
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`        Media: .xcf .svg .blend
 +MMMMMMMNNNNNmmmmdmNMNdso/-           
 yMMNNNNNNNmmmmmNNMmhs+/-`             
 /hMMNNNNNNNNMNdhs++/-`                
 `/ohdmmddhys+++/:.`
   `-//////:--.
 ```
-🌱 `.py` `.sh` `.tex` `.md`
-
-🖼 `.xcf` `.svg` `.blend`
-
-🏠 `vim` `GNU/Linux`
 
 <!--
 **c-torre/c-torre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
