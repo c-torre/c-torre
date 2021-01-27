@@ -14,7 +14,7 @@
  /NMMMMMMMMNNNNmmmdddmNMNdso:`        
 +MMMMMMMNNNNNmmmmdmNMNdso/-           Script:    .py .sh
 yMMNNNNNNNmmmmmNNMmhs+/-`             
-/hMMNNNNNNNNMNdhs++/-`                Markup:  .tex .md
+/hMMNNNNNNNNMNdhs++/-`                Markup:    .tex .md
 `/ohdmmddhys+++/:.`                   
   `-//////:--.                        Media:     .xcf .svg .blend
 ```
