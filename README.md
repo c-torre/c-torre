@@ -12,11 +12,11 @@
     `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
   `sNMMMMMMMMNNNmmmdddddmNMmhs/.      Terminal:  st
  /NMMMMMMMMNNNNmmmdddmNMNdso:`        
-+MMMMMMMNNNNNmmmmdmNMNdso/-           Script:    .py .sh .tex .md
++MMMMMMMNNNNNmmmmdmNMNdso/-           Script:    .py .sh
 yMMNNNNNNNmmmmmNNMmhs+/-`             
-/hMMNNNNNNNNMNdhs++/-`                Media:     .xcf .svg .blend
-`/ohdmmddhys+++/:.`
-  `-//////:--.
+/hMMNNNNNNNNMNdhs++/-`                Markdown:  .tex .md
+`/ohdmmddhys+++/:.`                   
+  `-//////:--.                        Media:     .xcf .svg .blend
 ```
 
 <!--
