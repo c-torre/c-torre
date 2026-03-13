@@ -2,7 +2,7 @@
          -/oyddmdhs+:.                welcome@profile
      -odNMMMMMMMMNNmhy+-`             ---------------
    -yNMMMMMMMMMMMNNNmmdhy+-           
- `omMMMMMMMMMMMMNmdmmmmddhhy/`        OS:        Gentoo/GNU-Linux
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`        OS:        Artix/GNU-Linux
  omMMMMMMMMMMMNhhyyyohmdddhhhdo`      
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Editor:    nvim
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   
